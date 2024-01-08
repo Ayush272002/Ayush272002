@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Ayush Acharjya</h1>
 <h3 align="center">A passionate software developer from the UK</h3>
-<img align="right" alt="just a casual image" height="300" width="600" src="https://y.yarn.co/ae20d2eb-2765-454b-ab56-061e7361b7dc_text.gif">
+<img align="right" alt="just a casual image" width="400" src="https://y.yarn.co/ae20d2eb-2765-454b-ab56-061e7361b7dc_text.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush272002&label=Profile%20views&color=0e75b6&style=flat" alt="ayush272002" /> </p>
 
