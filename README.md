@@ -31,7 +31,7 @@
 
 <!--![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ayush272002&langs_count=5&theme=midnight-purple)-->
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush272002&theme=midnight-purple&layout=compact&langs_count=10"/><br><br>
-![LeetCode Stats](https://leetcard.jacoblin.cool/acharjyaayush41?theme=dark&font=Fira%20Mono&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Ayush272002?theme=dark&font=Fira%20Mono&ext=heatmap)
 
 
 
