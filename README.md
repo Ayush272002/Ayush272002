@@ -1,4 +1,4 @@
-[![MasterHead](https://raw.githubusercontent.com/Ayush272002/Ayush272002/main/git%20hub%20banner.gif)]
+![MasterHead](https://raw.githubusercontent.com/Ayush272002/Ayush272002/main/git%20hub%20banner.gif)
 
 <h1 align="center">Hi 👋, I'm Ayush Acharjya</h1>
 <h3 align="center">A passionate software developer from the UK</h3>
