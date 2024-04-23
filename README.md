@@ -1,8 +1,8 @@
-![MasterHead](https://raw.githubusercontent.com/Ayush272002/Ayush272002/main/git%20hub%20banner.gif)
+![MasterHead](https://github.com/Ayush272002/Ayush272002/blob/main/github_banner.gif)
 
 <h1 align="center">Hi 👋, I'm Ayush Acharjya</h1>
 <h3 align="center">A passionate software developer from the UK</h3>
-<img align="right" alt="just a casual image" width="400" src="https://raw.githubusercontent.com/Ayush272002/Ayush272002/main/git%20hub%20image.gif">
+<img align="right" alt="just a casual image" width="400" src="https://github.com/Ayush272002/Ayush272002/blob/main/github_image.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush272002&label=Profile%20views&color=0e75b6&style=flat" alt="ayush272002" /> </p>
 
