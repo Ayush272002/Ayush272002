@@ -27,7 +27,8 @@
 
 <!--[![Trophies](https://github-profile-trophy.vercel.app/?username=Ayush272002&theme=onedark&no-bg=false&count_private=true)](https://github.com/Ayush272002/Ayush272002)-->
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayush272002&theme=midnight-purple" alt="couldn't load there might be a problem in the server" />
+<!--<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayush272002&theme=midnight-purple" alt="couldn't load there might be a problem in the server" />-->
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ayush272002&theme=midnight-purple)](https://git.io/streak-stats)
 
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayush272002&show_icons=true&locale=en&theme=midnight-purple" alt="ayush272002" /></p>-->
 
