@@ -20,8 +20,7 @@
 <a href="https://instagram.com/ayush272002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ayush272002" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">💻 Tech Stack: </h3>
-
+## 💻 Tech Stack: 
 ### Languages:
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
@@ -91,7 +90,7 @@
 
 
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 
 <!--[![Trophies](https://github-profile-trophy.vercel.app/?username=Ayush272002&theme=onedark&no-bg=false&count_private=true)](https://github.com/Ayush272002/Ayush272002)-->
 
