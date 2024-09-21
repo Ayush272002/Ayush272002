@@ -62,6 +62,7 @@
 
 ### Messaging & Stream Processing:
 ![Kafka](https://img.shields.io/badge/kafka-%23231F20.svg?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![Redis Pub/Sub](https://img.shields.io/badge/redis%20pub--sub-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
 
 ### DevOps & Cloud:
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
