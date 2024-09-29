@@ -53,6 +53,14 @@
 ![WebRTC](https://img.shields.io/badge/WebRTC-%23F8F9FA.svg?style=for-the-badge&logo=webrtc&logoColor=black) 
 ![WebSockets](https://img.shields.io/badge/WebSockets-%23000000.svg?style=for-the-badge&logo=websockets&logoColor=white) 
 
+### Blockchain Development:
+![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
+![Solana Web3.js](https://img.shields.io/badge/Solana%20Web3.js-%23435EEF.svg?style=for-the-badge&logo=solana&logoColor=white)
+![Solana Wallet Adapter](https://img.shields.io/badge/Solana_Wallet_Adapter-%23435EEF.svg?style=for-the-badge&logo=solana&logoColor=white)
+![BS58](https://img.shields.io/badge/BS58-%23363636.svg?style=for-the-badge&logo=bs58&logoColor=white)
+![ED25519](https://img.shields.io/badge/ED25519-%23363636.svg?style=for-the-badge&logo=ed25519&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-%23274D80.svg?style=for-the-badge&logo=ethereum&logoColor=white)
+
 ### Databases:
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
