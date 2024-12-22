@@ -12,6 +12,8 @@
 
 - 📫 How to reach me **ayushacharjya@gmail.com**
 
+- 🌐 Portfolio: [ayush272002.vercel.app](https://ayush272002.vercel.app/)
+
 - ⚡ Fun fact **Its all 0's and 1's**
 
 ## 🌐 Socials:
