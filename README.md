@@ -16,12 +16,6 @@
 
 - ⚡ Fun fact **Its all 0's and 1's**
 
-## 🌐 Socials:
-<p align="left">
-<a href="https://twitter.com/ayush272002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ayush272002" height="30" width="40" /></a>
-<a href="https://instagram.com/ayush272002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ayush272002" height="30" width="40" /></a>
-</p>
-
 ## 💻 Tech Stack: 
 ### Languages:
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) 
@@ -50,8 +44,8 @@
 ### Backend Development:
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 ![Express](https://img.shields.io/badge/express-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
-![Hono](https://img.shields.io/badge/Hono-%23000000.svg?style=for-the-badge&logo=deno&logoColor=white) 
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white) 
+![Hono](https://img.shields.io/badge/Hono-%23000000.svg?style=for-the-badge&logo=deno&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) 
 ![WebRTC](https://img.shields.io/badge/WebRTC-%23F8F9FA.svg?style=for-the-badge&logo=webrtc&logoColor=black) 
 ![WebSockets](https://img.shields.io/badge/WebSockets-%23000000.svg?style=for-the-badge&logo=websockets&logoColor=white) 
@@ -64,16 +58,19 @@
 ![ED25519](https://img.shields.io/badge/ED25519-%23363636.svg?style=for-the-badge&logo=ed25519&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/Ethereum-%23274D80.svg?style=for-the-badge&logo=ethereum&logoColor=white)
 
-### Databases:
+### Databases & ORM's:
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
 ![Redis](https://img.shields.io/badge/redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
 
 ### Messaging & Stream Processing:
 ![Kafka](https://img.shields.io/badge/kafka-%23231F20.svg?style=for-the-badge&logo=apache-kafka&logoColor=white)
 ![Redis Pub/Sub](https://img.shields.io/badge/redis%20pub--sub-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
 ### DevOps & Cloud:
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
