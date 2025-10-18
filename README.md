@@ -117,6 +117,6 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/ayush272002?theme=dark&font=Fira%20Mono&ext=heatmap)
 <!--![LeetCode Stats](https://leetcard.jacoblin.cool/ayushacharjya?theme=dark&font=Fira%20Mono&ext=contest)-->
 
-
-
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=64&section=footer" alt="Footer"/>
+</p>
