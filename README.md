@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/ayush272002" target="blank"><img src="https://img.shields.io/twitter/follow/ayush272002?logo=twitter&style=for-the-badge" alt="ayush272002" /></a> </p>
 
-- 💬 Used plenty tools — what matters is making things people use.
+- 💬 Used plenty tools, what matters is making things people use.
 
 - 📫 How to reach me **contact@ayushacharjya.com**
 
