@@ -10,7 +10,7 @@
 
 - 💬 Used plenty tools — what matters is making things people use.
 
-- 📫 How to reach me **ayush@ayush272002.me**
+- 📫 How to reach me **contact@ayushacharjya.com**
 
 <!--- 🌐 Portfolio: [ayush272002.vercel.app](https://ayush272002.vercel.app/)-->
 
